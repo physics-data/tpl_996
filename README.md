@@ -84,6 +84,4 @@ department,count,latest,earliest
 
 最后，恭喜你已经完成了本课程所有的小作业。希望你在这短短四周的时间内有自己的收获，初探数据处理的奥秘，学有所成。
 
-<span style="color:white">
 最后的最后，芃芃那么 rich，怎么可能去打工呢？他当然是过上了幸福的生活啦！
-</span>
