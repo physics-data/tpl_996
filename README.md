@@ -11,7 +11,7 @@
 1. 一个 Python 程序 `statistics.py`，接受四个参数（分别为员工信息文件名、打卡信息文件名和按个人、按部门的输出统计文件名），按照下面的要求对打卡信息进行统计。
 2. 一个 `Makefile`，它能够自动对 `data` 目录下所有形如 `*.people.csv` 和 `*.record.csv` 的文件运行上面的程序，输出路径为同一目录下的 `*.stats_people.csv` 和 `*.stats_dep.csv`，并且具有一个 `clean` 目标，删除所有输出文件。
 
-在完成任务时，你需要使用 `pandas` 的 `merge`, `group_by` 或者其他库（如 SQLite）与其等价的关系代数操作，而不应该直接使用 Python 操作数据。
+在完成任务时，你需要使用 `pandas` 的 `merge`, `group_by` 或者其他库（如 SQLite）或者语言（如 R）中与其等价的关系代数操作，而不应该直接使用 Python 操作数据。
 
 ### 输入格式
 
